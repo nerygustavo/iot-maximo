@@ -4,11 +4,11 @@
 	"iotf-service-name": "iotf-maximo",
 	
 	"maximo-options": {
-		"protocol": "",
-		"hostname": "",
-		"port": "",
-		"user": "",
-		"password": "",
+		"protocol": "http",
+		"hostname": "103.27.46.83",
+		"port": "9080",
+		"user": "wilson",
+		"password": "wilson",
 		"auth_scheme": "",
 		"authtype": "",
 		"islean": 1
